@@ -14,4 +14,4 @@ I'm a Web Developer. I'm studying and development in the explorer course at [Roc
 
 #### Contacts
 - 📬 Email: joaojosefaleirosantos@gmail.com
-- 😉 [Linkedin](https://www.linkedin.com/in/jjfaleiro/)
+- 😉 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjfaleiro/)
